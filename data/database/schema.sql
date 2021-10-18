@@ -1,0 +1,1 @@
+create database zend_music_player;
